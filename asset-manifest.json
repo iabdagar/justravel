@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/justravel/static/css/main.db1b1ad1.css",
+    "main.js": "/justravel/static/js/main.4e2fbc43.js",
+    "index.html": "/justravel/index.html",
+    "main.db1b1ad1.css.map": "/justravel/static/css/main.db1b1ad1.css.map",
+    "main.4e2fbc43.js.map": "/justravel/static/js/main.4e2fbc43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db1b1ad1.css",
+    "static/js/main.4e2fbc43.js"
+  ]
+}
