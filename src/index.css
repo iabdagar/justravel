@@ -129,9 +129,9 @@ input[type="checkbox"] {
 }
 
 /* Media Query */
-@media only screen and (max-width: 480px) {
+@media only screen and (min-width: 320px) {
   h1 {
-    font-size: 5rem;
+    font-size: 3rem;
     padding: 1.5rem 0;
   }
 
